@@ -1,9 +1,9 @@
 /* Background Wallpaper */
-#app > div.interface.text-2 > div.background {
+.interface .background{
     background-image: url("--link--");
-    background-size: 100%
+    background-size: cover;
 }
 .bg-radial,
-.pattern-bg {
+.pattern-bg{
     display: none;
 }
