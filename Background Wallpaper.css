@@ -1,6 +1,6 @@
 /* Background Wallpaper */
 #app > div.interface.text-2 > div.background {
-    background-image: url("--link--")
+    background-image: url("--link--");
     background-size: 100%
 }
 #app > div.interface.text-2 > div.background > div.bg-radial {
