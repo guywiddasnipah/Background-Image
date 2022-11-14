@@ -3,14 +3,7 @@
     background-image: url("--link--");
     background-size: 100%
 }
-#app > div.interface.text-2 > div.background > div.bg-radial {
-    position: absolute !important;
-    height: 45px !important;
-    width: 105px !important;
-    top: 64rem !important;
-    left: 0rem !important;
-    background: #ffffff00 !important;
-}
+.bg-radial,
 .pattern-bg {
     display: none;
 }
